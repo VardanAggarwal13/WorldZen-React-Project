@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Amritsar, Punjab"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "0143-616161"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@aggarwal.com"
+    }
+  ]
